@@ -31,7 +31,7 @@
 ---
 ### 📌 Featured Projects
 
-- **[Electric Motor Temperature Prediction](https://github.com/Udit11/2025-Electric-Cars-Project)**  
+- 🔌 **[Electric Motor Temperature Prediction](https://github.com/Udit11/2025-Electric-Cars-Project)**  
   Developed a machine learning model to predict the permanent magnet temperature of a Permanent Magnet Synchronous Motor (PMSM). The project includes data preprocessing, model training using a Random Forest Regressor, and deployment of a Flask API for real-time predictions.
 
 - **[AI-Powered Chatbot with Document Processing and Retrieval](https://github.com/Udit11/2025-AI-Powered-Chatbot-with-Document-Processing-and-Retrieval)**  
