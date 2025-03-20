@@ -10,10 +10,10 @@
 
 ### 💡 About Me
 - 🎓 **MSc in Computing (AI)** from **Dublin City University**
-- 💼 **AI/ML Engineer @ Accenture India** | Ex-**Xoriant Solutions**
+- 💼 **AI/ML Engineer @ Univitt AI Technology Private Limited, India** | Ex-**Xoriant Solutions**
 - 🌱 Currently exploring **Generative AI, Large Language Models, and Cloud Computing**
 - 🏆 **3rd Place Winner** - Rocket Software Hackathon
-- 🌍 Based in **Dublin, Ireland**
+- 🌍 Based in **India**
 
 ---
 
@@ -30,14 +30,7 @@
 
 ---
 
-### 📌 Featured Projects
-
-🚀 **[Auto Content Extraction](https://github.com/Udit11/auto-content-extraction)** – AI-powered system for extracting key insights from unstructured data.  
-🔍 **[ETSY Category Prediction](https://github.com/Udit11/etsy-category-prediction)** – Machine Learning model for predicting product categories with high accuracy.  
-🎮 **[A* Algorithm Game](https://github.com/Udit11/a-star-game)** – Game implementing A* search for pathfinding.  
-🦠 **[Deep Learning on Malaria Dataset](https://github.com/Udit11/malaria-detection)** – CNN-based malaria cell detection system.  
-
-🔗 **[More Projects](https://github.com/Udit11?tab=repositories)**
+🔗 **[Projects](https://github.com/Udit11?tab=repositories)**
 
 ---
 
