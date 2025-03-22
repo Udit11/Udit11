@@ -9,11 +9,11 @@
 ---
 
 ### 💡 About Me
-- 🎓 **MSc in Computing (AI)** from **Dublin City University**
-- 💼 **AI/ML Engineer @ Univitt AI Technology Private Limited, India** | Ex-**Xoriant Solutions**
-- 🌱 Currently exploring **Generative AI, Large Language Models, and Cloud Computing**
-- 🏆 **3rd Place Winner** - Rocket Software Hackathon
-- 🌍 Based in **India**
+🎓 **MSc in Computing (AI)** from **Dublin City University**
+💼 **AI/ML Engineer @ Univitt AI Technology Private Limited, India** | Ex-**Xoriant Solutions**
+🌱 Currently exploring **Generative AI, Large Language Models, and Cloud Computing**
+🏆 **3rd Place Winner** - Rocket Software Hackathon
+🌍 Based in **India**
 
 ---
 
@@ -32,19 +32,19 @@
 ### 📌 Featured Projects
 
 👉 ⚙️🌡️ **[Electric Motor Temperature Prediction](https://github.com/Udit11/2025-Electric-Cars-Project)**  
-  Developed a machine learning model to predict the permanent magnet temperature of a Permanent Magnet Synchronous Motor (PMSM). The project includes data preprocessing, model training using a Random Forest Regressor, and deployment of a Flask API for real-time predictions.
+Developed a machine learning model to predict the permanent magnet temperature of a Permanent Magnet Synchronous Motor (PMSM). The project includes data preprocessing, model training using a Random Forest Regressor, and deployment of a Flask API for real-time predictions.
 
 👉 🤖📄 **[AI-Powered Chatbot with Document Processing and Retrieval](https://github.com/Udit11/2025-AI-Powered-Chatbot-with-Document-Processing-and-Retrieval)**  
-  Created an AI-powered chatbot capable of answering domain-specific queries using advanced NLP techniques. The chatbot retrieves and summarizes documents, provides sentiment insights, and highlights key entities in its responses.
+Created an AI-powered chatbot capable of answering domain-specific queries using advanced NLP techniques. The chatbot retrieves and summarizes documents, provides sentiment insights, and highlights key entities in its responses.
 
 👉 🤖💰 **[Smart Document Assistant for Financial Domain](https://github.com/Udit11/2025-Smart-Document-Assistant-for-Financial-Domain)**  
-  Built an intelligent document assistant for the financial domain, performing tasks like information retrieval, text summarization, sentiment analysis, and named entity recognition for financial documents.
+Built an intelligent document assistant for the financial domain, performing tasks like information retrieval, text summarization, sentiment analysis, and named entity recognition for financial documents.
 
 👉 ⛽📊 **[Fuel Efficiency Prediction](https://github.com/Udit11/2025-Fuel-Efficiency-Prediction)**  
-  Developed a model to predict vehicle fuel efficiency based on various parameters, aiding in the analysis and improvement of automotive performance.
+Developed a model to predict vehicle fuel efficiency based on various parameters, aiding in the analysis and improvement of automotive performance.
 
 👉 🛡️💰 **[Insurance Premium Prediction](https://github.com/Udit11/2025-Insurance-Premium)**  
-  Created a system to predict insurance premiums using machine learning techniques, assisting in risk assessment and pricing strategies.
+Created a system to predict insurance premiums using machine learning techniques, assisting in risk assessment and pricing strategies.
 
 🔗 **[More Projects](https://github.com/Udit11?tab=repositories)**
 ---
