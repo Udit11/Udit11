@@ -9,11 +9,11 @@
 ---
 
 ### 💡 About Me
--🎓 **MSc in Computing (AI)** from **Dublin City University**
--💼 **AI/ML Engineer @ Univitt AI Technology Private Limited, India** | Ex-**Xoriant Solutions**
--🌱 Currently exploring **Generative AI, Large Language Models, and Cloud Computing**
--🏆 **3rd Place Winner** - Rocket Software Hackathon
--🌍 Based in **India**
+- 🎓 **MSc in Computing (AI)** from **Dublin City University**
+- 💼 **AI/ML Engineer @ Univitt AI Technology Private Limited, India** | Ex-**Xoriant Solutions**
+- 🌱 Currently exploring **Generative AI, Large Language Models, and Cloud Computing**
+- 🏆 **3rd Place Winner** - Rocket Software Hackathon
+- 🌍 Based in **India**
 
 ---
 
