@@ -1,6 +1,6 @@
 ## Hi there, I'm Udit Srivastava! 👋
 
-### 🚀 AI/ML Engineer | Software Developer | NLP & Cloud Enthusiast
+### 🚀 AI/ML Engineer | Software Developer | NLP | MCP | LLMs | RAG
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-udit--srivastava-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/udit-srivastava) 
 [![Email](https://img.shields.io/badge/Email-uditsrivastava2347%40gmail.com-red?style=flat-square&logo=gmail)](mailto:uditsrivastava2347@gmail.com)
