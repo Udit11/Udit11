@@ -70,9 +70,3 @@ A machine learning system to predict insurance premiums, facilitating risk asses
 
 ## 🌟 Support My Work
 If you find my projects useful or inspiring, please consider giving my repositories a ⭐️ on GitHub!
-
----
-
-## Download
-This `README.md` can be downloaded as a standalone file for reference:
-[Download README.md](https://raw.githubusercontent.com/Udit11/Udit11/main/README.md)
