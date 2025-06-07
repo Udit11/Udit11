@@ -6,7 +6,6 @@ I am an enthusiastic **AI/ML Engineer** and **Software Developer** with a strong
 - **Education**: MSc in Computing (Artificial Intelligence), Dublin City University
 - **Current Role**: AI/ML Engineer at Univitt AI Technology Private Limited, India
 - **Previous Experience**: Software Engineer at Xoriant Solutions
-- **Achievements**: 3rd Place Winner at Rocket Software Hackathon
 - **Location**: India
 - **Interests**: Generative AI, Large Language Models, Cloud Computing, and Data Science
 
