@@ -63,6 +63,7 @@ A machine learning system to predict insurance premiums, facilitating risk asses
 - **Email**: [uditsrivastava2347@gmail.com](mailto:uditsrivastava2347@gmail.com)
 - **LinkedIn**: [linkedin.com/in/udit-srivastava](https://linkedin.com/in/udit-srivastava)
 - **GitHub**: [github.com/Udit11](https://github.com/Udit11)
+- **Medium**: [https://medium.com/@uditsrivastava](https://medium.com/@uditsrivastava2347)
 - **Portfolio**: *Coming Soon*
 
 ---
