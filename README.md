@@ -64,7 +64,7 @@ A machine learning system to predict insurance premiums, facilitating risk asses
 - **LinkedIn**: [linkedin.com/in/udit-srivastava](https://linkedin.com/in/udit-srivastava)
 - **GitHub**: [github.com/Udit11](https://github.com/Udit11)
 - **Medium**: [https://medium.com/@uditsrivastava](https://medium.com/@uditsrivastava2347)
-- **Portfolio**: *Coming Soon*
+- **Portfolio**: [https://udit-ai-portfolio.com](https://udit-ai-portfolio.com)
 
 ---
 
